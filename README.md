@@ -1,4 +1,4 @@
-# Conversor de Bases Numéricas
- Programa em Python que converte números da Base decimal para Bases Binárias, Octais ou Hexadecimais.
+# Number Bases Converter
+ Program created using python that converts numbers from the decimal base to binary, octal or hexadecimal bases.
 
-OBS: Para uma melhor visualização, utilizar o Pycharm.
+OBS: You should use Pycharm to get a better experience.
